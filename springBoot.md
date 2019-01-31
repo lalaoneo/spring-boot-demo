@@ -1,5 +1,5 @@
 # springBoot启动流程
-![avatar](static/images/springapplicationflow.png)
+![avatar](\src\main\resources\static\images\springapplicationflow.png)
 ```java
 public ConfigurableApplicationContext run(String... args) {
     StopWatch stopWatch = new StopWatch();
